@@ -1,8 +1,7 @@
 # Lab1_Elemaq_Grupo3
-Solución a los items planteados al grupo 3
-Se presenta el archivo .py de la solución de los items asignados al grupo 3.
+Solución a los items planteados al grupo 3 en un archivo .py.
 
-Este proyecto es una implementación en Python de un programa que realiza el análisis de esfuerzos en una estructura mecánica. Se utiliza la teoría de resistencia de materiales para calcular los esfuerzos presentes en una sección específica de la estructura.
+Este proyecto es una implementación en Python de un programa que realiza el análisis de esfuerzos en una estructura mecánica. Se utiliza la teoría de resistencia de materiales y teoría de fallas para calcular los esfuerzos presentes en una sección específica de la estructura y determinar si esta falla o no.
 
 ## Descripción del problema
 
